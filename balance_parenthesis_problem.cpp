@@ -4,9 +4,9 @@ std::unordered_map<char,int> m = { {'[',-1} ,{'(',-2} , {'{',-3} ,{']',1} , {')'
 string isBalanced(string s) ;
  bool isValid(string s);
 int main(){
-	// int t;
-	// cin>>t;
-	// while(t--)
+	 int t;
+	 cin>>t;
+	 while(t--)
 	{
 	string s;
 	cin>>s;
